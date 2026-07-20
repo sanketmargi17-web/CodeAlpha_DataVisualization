@@ -1,0 +1,112 @@
+# 📊 Amazon Sales Data Visualization Dashboard
+
+## 📌 Project Overview
+
+This project was developed as part of the **CodeAlpha Data Analytics Internship**.
+
+The objective of this project is to transform raw Amazon sales data into meaningful and interactive visualizations using **Microsoft Power BI**. The dashboard provides valuable business insights by analyzing sales performance, profit, customer segments, regional trends, and monthly sales.
+
+---
+
+## 🎯 Objectives
+
+- Analyze Amazon sales performance
+- Visualize business trends using Power BI
+- Identify high-performing categories and regions
+- Monitor profit and sales distribution
+- Build an interactive dashboard for decision-making
+
+---
+
+## 📂 Dataset
+
+**Dataset Used:** Sample Superstore Dataset
+
+The dataset contains information such as:
+- Order ID
+- Order Date
+- Customer Name
+- Segment
+- Category
+- Sub-Category
+- Region
+- State
+- Sales
+- Profit
+- Quantity
+
+---
+
+## 🛠 Tools Used
+
+- Microsoft Power BI
+- Microsoft Excel (CSV)
+- Data Cleaning
+- Data Visualization
+
+---
+
+## 📈 Dashboard Features
+
+### KPI Cards
+- 💰 Total Sales
+- 💵 Total Profit
+- 📦 Total Orders
+- 👥 Total Customers
+
+### Charts
+- Sales by Category
+- Profit by Category
+- Region-wise Sales
+- Customer Segment Distribution
+- Top 10 States by Sales
+- Monthly Sales Trend
+
+### Interactive Filters
+- Category
+- Region
+- Segment
+
+---
+
+## 📊 Key Insights
+
+- Technology category generated the highest sales.
+- The West region contributed the highest revenue.
+- Consumer segment placed the maximum number of orders.
+- Monthly sales trend shows seasonal variations.
+- Furniture category generated lower profit compared to Technology.
+
+---
+
+## 📁 Project Structure
+
+```
+CodeAlpha_DataVisualization/
+│
+├── Amazon_Sales_Dashboard.pbix
+├── Sample - Superstore.csv
+└── README.md
+```
+
+---
+
+## 🚀 Future Improvements
+
+- Add forecasting visuals
+- Include customer profitability analysis
+- Connect dashboard with live SQL database
+- Publish dashboard using Power BI Service
+
+---
+## 👨‍💻 Author
+
+Sanket Subhash Margi
+
+CodeAlpha Data Analytics Internship 2026
+
+---
+
+## ⭐ GitHub Repository
+
+If you found this project useful, don't forget to ⭐ the repository.
